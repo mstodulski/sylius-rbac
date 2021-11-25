@@ -1,5 +1,5 @@
 {
-    "name": "sylius/rbac",
+    "name": "mstodulski/sylius-rbac",
     "type": "library",
     "description": "RBAC component for PHP applications.",
     "keywords": ["Rbac", "security", "acl", "permissions"],
